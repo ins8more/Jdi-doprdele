@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>3D Model</h1>
-<model-viewer src="https://github.com/TvojeUživatelskéJméno/TvůjRepozitar/blob/main/original.usdz?raw=true"
+<model-viewer src="https://github.com/ins8more/Jdi-doprdele/raw/refs/heads/main/3DModel.usdz"
 alt="3D model"
 auto-rotate
 camera-controls
